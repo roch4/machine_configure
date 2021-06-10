@@ -3,15 +3,14 @@ This script set configuration of: network, domain/workgroup and machine's rename
 
 ## Newtork
 IPv4 only in the moment. If the user set for IPv6, one message the "unavailable" show in display.
-In config for IPv4, is possible choose between in static and dynamic IP address. 
+In config for IPv4, is possible choose between in static and dynamic IP address.
+In both options (static or dynamic) is reseted configs of network as soon as started. Being possible edited this configurations inside of run.
 
 #### Static IP
 Is possible set IP address, Gateway and Preferred & Alternate DNS's.
 
 #### Dynamic IP
 Configure in DHCP.
-
-Both configs (static or dynamic) is reseted configs of network as soon as started. Being possible edited this configurations inside of run.
 
 ## Domain/Workgroup
 The user choose between this options. In both options, set the values is enough.
