@@ -20,6 +20,7 @@ Is enough set the values, too.
 
 ## Extras options
 Option 9 - Restart machine: will restart the machine in 10 seconds, with a progress bar.
+
 Option 0 - Exit: back to the beginning or will stop the run.
 
 ## More information
