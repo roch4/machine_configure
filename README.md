@@ -6,10 +6,10 @@ IPv4 only in the moment. If the user set for IPv6, one message the "unavailable"
 In config for IPv4, is possible choose between in static and dynamic IP address.
 In both options (static or dynamic) is reseted configs of network as soon as started. Being possible edited this configurations inside of run.
 
-#### Static IP
+### Static IP
 Is possible set IP address, Gateway and Preferred & Alternate DNS's.
 
-#### Dynamic IP
+### Dynamic IP
 Configure in DHCP.
 
 ## Domain/Workgroup
