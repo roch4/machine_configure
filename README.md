@@ -11,6 +11,7 @@ Is possible set IP address, Gateway and Preferred & Alternate DNS's.
 ### Dynamic IP
 Configure in DHCP.
 
+
 Both configs (static or dynamic) is reseted configs of network as soon as started. Being possible edited this configurations inside of run.
 
 ## Domain/Workgroup
@@ -32,5 +33,7 @@ Is recommended start run as admin mode.
 
 # Author
 Matheus Rocha
+
 Brazil
+
 https://www.linkedin.com/in/roch4/
