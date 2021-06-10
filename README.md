@@ -1,8 +1,6 @@
 # machine_configure
 This script set configuration of: network, domain/workgroup and machine's rename.
 
-# Possibles configs in:
-
 ## Newtork
 IPv4 only in the moment. If the user set for IPv6, one message the "unavailable" show in display.
 In config for IPv4, is possible choose between in static and dynamic IP address. 
