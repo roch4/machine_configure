@@ -18,13 +18,14 @@ The user choose between this options. In both options, set the values is enough.
 ## Rename
 Is enough set the values, too.
 
+## Extras options
+Option 9 - Restart machine: will restart the machine in 10 seconds, with a progress bar.
+Option 0 - Exit: back to the beginning or will stop the run.
+
+## More information
 In options of Domain/Workgroup and Rename, restart the machine is necessary. If reboot is pending, is impossible set this options again. If the user will stop the run, a message for restart machine shows in display, before end run.
 
 In all options, a confirm message is required.
-
-Extras options:
-Option 9 - Restart machine: will restart the machine in 10 seconds, with a progress bar.
-Option 0 - Exit: back to the beginning or will stop the run.
 
 Is recommended start run as admin mode.
 
